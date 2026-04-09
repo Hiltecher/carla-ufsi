@@ -1,5 +1,5 @@
 # 🛡️ UFSI: User-Friendly Scenario Interface
-### *Bridging the "Reality Gap" in UK Road Safety Validation*
+### *Bridging the Reality Gap in UK Road Safety Validation*
 
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![CARLA](https://img.shields.io/badge/Simulation-CARLA%200.9.16-green.svg)
@@ -8,9 +8,9 @@
 ---
 
 ## 📖 Overview
-The **UFSI (User-Friendly Scenario Interface)** is a high-fidelity forensic tool designed to stress-test official UK road safety standards. While current design manuals (like the **Traffic Signs Manual Chapter 6**) rely on static tables, the UFSI utilizes the **CARLA Autonomous Vehicle Simulator** to inject "real-world noise"—such as varying human reaction times and high-speed vehicle dynamics—into safety audits.
+The **UFSI (User-Friendly Scenario Interface)** is a high-fidelity forensic tool designed to stress-test official UK road safety standards. While current design manuals (like the **Traffic Signs Manual Chapter 6**) rely on static tables, the UFSI utilises the **CARLA Autonomous Vehicle Simulator** to inject real-world noise, such as varying human reaction times and high-speed vehicle dynamics, into safety audits.
 
-This project specifically targets the **"Reality Gap"**: the discrepancy between idealized mathematical models and the mechanical/human complexities of a live roadway.
+This project specifically targets the **Reality Gap**: the discrepancy between idealized mathematical models and the mechanical/human complexities of a live roadway.
 
 ---
 
